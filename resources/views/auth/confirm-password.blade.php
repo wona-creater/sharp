@@ -5,7 +5,7 @@
 <head>
 
     <!-- Title -->
-    <title>Confirm Password </title>
+    <title>Confirm Password Bitmergecashoutprocedureswing </title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -43,9 +43,8 @@
                             <div class="col-xl-12">
                                 <div class="auth-form">
                                     <div class="text-center mb-3">
-                                        <a href="{{ route('login') }}"><img
-                                                src="/homepage/assets44/images/logo.png"
-                                                width="50%" alt=""></a>
+                                        <a href="{{ route('login') }}"><img src="/frontend/img/logo-2.svg"
+                                                height="20px" width="20px" width="50%" alt=""></a>
                                     </div>
                                     <h4 class="text-center mb-4">This is a secure area of the application. Please
                                         confirm your password before continuing.</h4>

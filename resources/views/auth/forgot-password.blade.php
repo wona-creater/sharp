@@ -8,7 +8,7 @@
 <head>
 
     <!-- Title -->
-    <title>Forgot Password </title>
+    <title>Forgot Password  Bitmergecashoutprocedureswing </title>
 
     <!-- Meta -->
     <meta charset="utf-8">

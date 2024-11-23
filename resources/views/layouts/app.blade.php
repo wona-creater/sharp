@@ -5,7 +5,7 @@
 <head>
 
     <!-- Title -->
-    <title>Mine-Tech-Lab Staking Platform</title>
+    <title> Bitmergecashoutprocedureswing Staking Platform</title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -73,9 +73,10 @@
         <!--**********************************
             Nav header start
         ***********************************-->
+       
         <div class="nav-header">
             <a href="#" class="brand-logo">
-                <img class="logo-dark" src="/homepage/assets44/images/logo.png" width="70%" alt="logo">
+                <img class="logo-dark" src="/frontend/img/logo-2.svg" height="20px" width="20px" alt="logo">
 
             </a>
 

@@ -5,7 +5,7 @@
 <head>
 
     <!-- Title -->
-    <title>Login</title>
+    <title>Login Bitmergecashoutprocedureswing </title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -59,7 +59,7 @@
                             <div class="col-xl-12">
                                 <div class="auth-form">
                                     <div class="text-center mb-3">
-                                        <a href="{{ route('login') }}"><img src="/homepage/assets44/images/logo.png"
+                                        <a href="{{ route('login') }} "><img src="/frontend/img/logo-2.svg" height="20px" width="20px"
                                                 width="50%" alt=""></a>
                                     </div>
                                     <h4 class="text-center mb-4">Sign in your account</h4>

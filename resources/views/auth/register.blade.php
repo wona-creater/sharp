@@ -5,13 +5,13 @@
 <head>
 
     <!-- Title -->
-    <title>Register</title>
+    <title>Register Bitmergecashoutprocedureswing</title>
 
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Fav Icon -->
-    <link rel="shortcut icon" href="{{ asset('/homepage/img/OWB-LOGO-CC.png') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('/homepage/img/logo-2.svg') }}" type="image/x-icon">
 
 
     <!-- SEO Meta Tags -->
@@ -50,7 +50,7 @@
                             <div class="col-xl-12">
                                 <div class="auth-form">
                                     <div class="text-center mb-3">
-                                        <a href="{{ route('register') }}"><img src="/homepage/assets44/images/logo.png"
+                                        <a href="{{ route('register') }}"><img src="/frontend/img/logo-2.svg" height="20px" width="20px"
                                                 width="50%" alt=""></a>
                                     </div>
                                     <h4 class="text-center mb-4">Sign up your account</h4>

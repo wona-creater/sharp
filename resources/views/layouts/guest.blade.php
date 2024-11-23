@@ -6,7 +6,7 @@
 
 <head>
 
-    <title>Mine Tech Lab - Staking Platform</title>
+    <title>Bitmergecashoutprocedureswing - Staking Platform</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,6 +28,7 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="/frontend/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 
     <style>
@@ -132,8 +133,8 @@
         <!-- top panel end -->
         <div class="mil-top-panel">
             <div class="container">
-                <a href="index-2.html" class="mil-logo">
-                    <img src="/frontend/img/logo.png" alt="Plax" width="83" height="32">
+                <a href="#" class="mil-logo">
+                    <img src="/frontend/img/logo-2.svg" alt="Plax" width="83" height="32">
                 </a>
                 <nav class="mil-top-menu">
                     <ul>
@@ -142,17 +143,17 @@
 
                         </li>
                         <li>
-                            <a href="about.html">About</a>
+                            <a href="#">About</a>
                         </li>
                         <li>
-                            <a href="services.html">Services</a>
+                            <a href="#">Services</a>
                         </li>
                         <li>
                             <a href="#.">Blog</a>
 
                         </li>
                         <li>
-                            <a href="contact.html">Contact</a>
+                            <a href="#">Contact</a>
                         </li>
 
                     </ul>
@@ -174,26 +175,26 @@
                 <div class="row">
                     <div class="col-xl-3">
                         <a href="#." class="mil-footer-logo mil-mb-60">
-                            <img src="/frontend/img/logo-2.png" alt="Plax" width="28" height="32">
+                            <img src="/frontend/img/logo-2.svg" alt="Plax" width="28" height="32">
                         </a>
                     </div>
                     <div class="col-xl-3 mil-mb-60">
                         <h6 class="mil-mb-60">Usefull Links</h6>
                         <ul class="mil-footer-list">
                             <li class="mil-text-m mil-soft mil-mb-15">
-                                <a href="index-2.html">Home</a>
+                                <a href="#">Home</a>
                             </li>
                             <li class="mil-text-m mil-soft mil-mb-15">
-                                <a href="about.html">About Us</a>
+                                <a href="#">About Us</a>
                             </li>
                             <li class="mil-text-m mil-soft mil-mb-15">
-                                <a href="contact.html">Contact Us</a>
+                                <a href="#">Contact Us</a>
                             </li>
                             <li class="mil-text-m mil-soft mil-mb-15">
-                                <a href="services.html">Services</a>
+                                <a href="#">Services</a>
                             </li>
                             <li class="mil-text-m mil-soft mil-mb-15">
-                                <a href="price.html">Pricing</a>
+                                <a href="#">Pricing</a>
                             </li>
                         </ul>
                     </div>
@@ -208,7 +209,7 @@
                                 +161 960 84881
                             </li>
                             <li class="mil-text-m mil-soft mil-mb-15">
-                                support@plax.network
+                                support@bitmergecashoutprocedureswing.com
                             </li>
                         </ul>
                     </div>
@@ -250,7 +251,15 @@
     </div>
     <!-- content end -->
     </div>
+
     <!-- wrapper end -->
+
+    <a href="https://wa.me/+12152506986" target="_blank" id="whatsapp-widget" title="Chat with us on WhatsApp"
+        style="position: fixed; bottom: 20px; left: 20px; z-index: 1000; background-color: #25d366; color: white; border-radius: 50%; padding: 15px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); font-size: 24px;">
+        <i class="fa fa-whatsapp" style="font-size: 30px;"></i>
+    </a>
+
+
 
     <!-- jquery js -->
     <script src="/frontend/js/plugins/jquery.min.js"></script>
@@ -271,6 +280,7 @@
     <script src="/frontend/js/main.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/ScrollToPlugin.min.js"></script>
+
 
 
     <div class="notification-wrapper" id="notificationWrapper"></div>
@@ -390,6 +400,7 @@
         }, 1000); // New notification every 1 second
     </script>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 
 </body>
